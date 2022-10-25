@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+  .disp {
+    display: flex;
+  }
+}
+
+@media (min-width: 576px) {
+  .botoncillo {
+    margin-bottom: 15px;
+  }
+}
+
